@@ -1,0 +1,35 @@
+# Computer Vision using PyTorch
+
+## Overview
+
+This notebook provides a hands-on walkthrough of a **computer vision pipeline using PyTorch**. It walks through dataset preparation, model creation, training, evaluation, and visualization — all implemented in a clean, modular structure suitable for learning and reuse.
+
+The focus is on **image classification** using convolutional neural networks (CNNs), and demonstrates end-to-end deep learning workflow in PyTorch. It is structured to support both educational use and real-world adaptation.
+
+> This notebook runs entirely in Google Colab and is linked below.
+
+## This project showcases:
+- End-to-end **deep learning engineering** using PyTorch
+- Clean application of **CNN-based classification**
+- Use of `torchvision.datasets` and custom data loaders
+- **Model training**, validation, and loss tracking
+- Visual output of **predictions** and **evaluation metrics**
+
+## Features
+- Dataset preparation and normalization
+- CNN model construction
+- Training loop with loss/accuracy tracking
+- Performance visualization with graphs
+- Image prediction visualization (model outputs)
+
+## Technologies
+- Python
+- PyTorch
+- Torchvision
+- Matplotlib
+- Google Colab
+
+## Notebook Access
+
+🔗 [Open in Google Colab](https://colab.research.google.com/drive/1U7SWxkRvboGix8m20t8WzbX6ZM2cfhj-?usp=sharing)
+

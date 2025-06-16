@@ -45,7 +45,7 @@ Key highlights:
 
 ---
 
-## 🖼️ Screenshots
+## Screenshots
 
 <img width="630" alt="image" src="https://github.com/user-attachments/assets/94a5fd16-96a0-402e-a471-1838dcd40eeb" />
 
@@ -56,6 +56,5 @@ Key highlights:
 ---
 
 ## 🔒 Private License
-
-This project is provided for viewing and demonstration purposes only.  
+ 
 All rights reserved — reuse, distribution, or modification without permission is not allowed.
